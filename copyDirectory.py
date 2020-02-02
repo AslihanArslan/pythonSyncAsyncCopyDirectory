@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# ## SENKRON
+# ## Synchronous
 
 # In[1]:
 
@@ -28,7 +28,7 @@ finishTime = time.time()
 print("Total time:" + str(finishTime - startTime))
 
 
-# ## ASENKRON
+# ## Asynchronous
 
 # In[2]:
 
